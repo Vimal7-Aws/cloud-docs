@@ -2,7 +2,7 @@
 title:               Vimal
 tagline:             'A Jekyll theme'
 description:         'A Vimal Site'
-url:                 https://github.com/Vimal7-Aws/cloud-docs
+url:                 https://vimal7-aws.github.io/cloud-docs
 baseurl:             ''
 paginate:            5
 permalink:           pretty
